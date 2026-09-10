@@ -2,7 +2,7 @@
   <h1>📈 Calculadora do Lugar das Raízes (LGR)</h1>
   <p><strong>Ferramenta didática interativa para cálculo e visualização do algoritmo Root Locus em 12 passos.</strong></p>
   
-  [![Acessar Aplicação](https://img.shields.io/badge/Acessar-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit)](more-root-locus-please.streamlit.app)
+  [![Acessar Aplicação](https://img.shields.io/badge/Acessar-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit)](controlcalc.streamlit.app)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
   [![SymPy](https://img.shields.io/badge/SymPy-336699?style=for-the-badge&logo=python&logoColor=white)](#)
 </div>
@@ -13,7 +13,7 @@
 
 Este projeto é uma aplicação web desenvolvida em **Streamlit** com o objetivo de destrinchar o algoritmo clássico de Controle para o desenho do **Lugar Geométrico das Raízes (LGR)** ou *Root Locus*. A ferramenta foi construída com propósito pedagógico, visando ajudar estudantes e engenheiros a visualizarem, passo a passo, como a resposta de um sistema de controle de malha fechada evolui no plano complexo $s$.
 
-**Acesse a aplicação online:** [more-root-locus-please.streamlit.app](https://more-root-locus-please.streamlit.app)
+**Acesse a aplicação online:** [controlcalc.streamlit.app](https://controlcalc.streamlit.app)
 
 ---
 
